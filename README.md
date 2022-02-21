@@ -83,4 +83,4 @@ Created by <a href="https://github.com/IddonJones" target="_blank">@IddonJones</
 
 ## License
 This project is open source.
-Personal logos should not be used without authorization (personal brand of Mikheltodd). 
+Personal logos should not be used without authorization (personal brand of Iddon Jones). 
